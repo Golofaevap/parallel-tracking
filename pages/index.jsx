@@ -39,7 +39,7 @@ export default function Home() {
                 <Head></Head>
 
                 <main className={styles.main}>
-                    <div>"Safe content"</div>
+                    <div>Safe content</div>
                     <div>{/* <button onClick={() => {}}>AddNewMessage</button> */}</div>
                 </main>
 
@@ -63,7 +63,7 @@ export default function Home() {
                 <Head></Head>
 
                 <main className={styles.main}>
-                    <h1>"BLACK CONTENT"</h1>
+                    <h1>BLACK CONTENT</h1>
                     <div>{/* <button onClick={() => {}}>AddNewMessage</button> */}</div>
                 </main>
 

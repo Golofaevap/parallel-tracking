@@ -1,0 +1,49 @@
+{
+    "example": [
+        {
+            "blockType": "header1",
+            "title": "Here is example of safe page content",
+            "subtitle": "Here you can add any idea you want",
+            "button": {
+                "isEnabled": true,
+                "text": "123",
+                "url": ""
+            },
+            "imgUrl": "https://a.d-cd.net/lTeQ3NmRYqLAahrVXAitIwPrv60-1920.jpg",
+            "wrOpts": {
+                "main": 3,
+                "header": 2
+            }
+        },
+        {
+            "blockType": "header1",
+            "title": "Here is example of safe page content",
+            "subtitle": "Here you can add any idea you want",
+            "button": {
+                "isEnabled": true,
+                "text": "123",
+                "url": ""
+            },
+            "imgUrl": "",
+            "wrOpts": {
+                "main": 3,
+                "header": 2
+            }
+        },
+        {
+            "blockType": "header2",
+            "title": "Here is example of safe page content",
+            "subtitle": "Here you can add any idea you want",
+            "button": {
+                "isEnabled": true,
+                "text": "Click this button",
+                "url": ""
+            },
+            "imgUrl": "https://a.d-cd.net/lTeQ3NmRYqLAahrVXAitIwPrv60-1920.jpg",
+            "wrOpts": {
+                "main": 3,
+                "header": 2
+            }
+        }
+    ]
+}

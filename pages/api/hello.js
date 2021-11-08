@@ -23,11 +23,12 @@ const pusher = new Pusher({
 // });
 
 export default function handler(req, res) {
-    const { clickId } = req.query;
+    const { clickId, curl } = req.query;
     pusher.trigger("my-channel-1", "my-event", {
         text: "hello world",
         content: "money",
         clickId: clickId,
+        curl: curl,
     });
     res.status(200).json({ name: "John Doe" });
 }
